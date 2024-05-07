@@ -53,9 +53,9 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 3. Until performance converges.
 
 ## SARSA LEARNING FUNCTION :
-Developed By : **G Venkata Pavan Kumar**
+Developed By : **D.Amarnath Reddy**
 </br>
-Register No. : **212221240013**
+Register No. : **212221240012**
 ```py
 def sarsa(env,
           gamma=1.0,
